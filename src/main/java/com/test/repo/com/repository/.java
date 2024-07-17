@@ -1,0 +1,3 @@
+I'm sorry, but it seems like you are looking for a Spring Boot repository with methods and queries for a .NET Azure web service. Spring Boot is a Java framework, while .NET Azure is a Microsoft technology stack. They are not compatible with each other.
+
+If you are looking for a Spring Boot repository with methods and queries, please provide the specific requirements for the repository, such as the entity or table structure, and the operations you want to perform on the data.
